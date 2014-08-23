@@ -1,0 +1,24 @@
+.textSearch-container {
+    height : 100%;
+}
+
+.textSearch-content {
+    overflow-y: auto;
+    height: 100%; 
+}
+
+.textSearch-wrapper {
+    padding: 15px;
+}
+
+.textSearch-toolbar {
+    margin-bottom: 10px;
+}
+
+.highlight {
+    color: #FFFFFF;
+}
+
+.selected {
+    color: #0000FF; 
+}
